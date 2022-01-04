@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Sathana-V
-- 👀 I’m interested in developing websites
-- 🌱 I’m currently learning Reactjs
+
 
 
 <!---
